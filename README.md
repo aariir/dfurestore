@@ -9,7 +9,7 @@ mv /path/to/dfu.sh /usr/local/bin/dfu
 
 dependencies
 
-- macvdmtool
+- [macvdmtool](https://github.com/AsahiLinux/macvdmtool)
 
 - cfgutil
 
