@@ -2,9 +2,7 @@
 
 echo "DFU mode..."
 sudo /usr/local/bin/macvdmtool dfu
-sleep 1
-sudo /usr/local/bin/macvdmtool dfu
-sleep 1
+sleep 2
 sudo /usr/local/bin/macvdmtool dfu
 
 echo "Waiting 5 seconds"
